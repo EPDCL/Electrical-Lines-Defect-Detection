@@ -125,7 +125,7 @@ Training by default uses:
 ## 📊 Image-Level Classification Performance
 
 <p align="center">
-  <img src="to be replaced with graph image link" width="600"/>
+  <img src="https://raw.githubusercontent.com/EPDCL/Electrical-Lines-Defect-Detection/refs/heads/main/CrossArms_TopCleat_TiltedStraight_Defect/assets/graphs.jpg" width="600"/>
 </p>
 
 #### Evaluated using YOLO prediction outputs aggregated per image.
@@ -159,5 +159,5 @@ Training by default uses:
 
 ## Sample predictions
 <p align="center">
-  <img src="to be replaced with predictions" width="600"/>
+  <img src="https://raw.githubusercontent.com/EPDCL/Electrical-Lines-Defect-Detection/refs/heads/main/CrossArms_TopCleat_TiltedStraight_Defect/assets/samplepredictions_crsarmTC.jpg" width="600"/>
 </p>
