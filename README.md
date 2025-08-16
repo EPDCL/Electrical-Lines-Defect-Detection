@@ -10,7 +10,7 @@
 ### Project Modules (Current Phase)
 
 ### - Object Detection  (CrossArm and TopCleat Tilted and Straight Defect)
-📁 [`Pole_LeanedStraight_Defect/ObjectDetection`](./Pole_LeanedStraight_Defect/ObjectDetection)
+📁 [`CrossArms_TopCleat_TiltedStraight_Defect`](./CrossArms_TopCleat_TiltedStraight_Defect)
 
 - Detects leaned and straight poles via bounding boxes  
 - Model: YOLOv12  
@@ -99,8 +99,8 @@ Electrical-Lines-Defect-Detection/
 ---
 
 ## Sample Visualizations
-- Classification model (CrossArm and TopCleat Tilted and Straight Defect)
-<p align="center"> <img src="placeholder" width="600"/> </p>
+- Object Detection model (CrossArm and TopCleat Tilted and Straight Defect)
+<p align="center"> <img src="https://raw.githubusercontent.com/EPDCL/Electrical-Lines-Defect-Detection/refs/heads/main/CrossArms_TopCleat_TiltedStraight_Defect/assets/samplepredictions_crsarmTC.jpg" width="600"/> </p>
 
 - Classification model (Pole Straight and Leaned Defect)
 <p align="center"> <img src="https://raw.githubusercontent.com/EPDCL/Electrical-Lines-Defect-Detection/refs/heads/main/Pole_LeanedStraight_Defect/Classification/assets/val_viz_ep40.png" width="600"/> </p>
